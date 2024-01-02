@@ -1,3 +1,3 @@
 # Aapna-college-demo
-this is my first repository
+This is my first repository
 Author- Dileep singh jadaun
